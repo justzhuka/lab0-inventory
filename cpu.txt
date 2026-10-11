@@ -1,0 +1,8 @@
+﻿
+
+Name                      : AMD Ryzen 7 7700 8-Core Processor              
+NumberOfCores             : 8
+NumberOfLogicalProcessors : 16
+
+
+

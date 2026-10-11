@@ -1,0 +1,22 @@
+
+
+BiosFirmwareType : Uefi
+BiosVersion      : ALASKA - 1072009
+BiosReleaseDate  : 13.02.2025 5:00:00
+
+
+
+
+
+Manufacturer      : American Megatrends International, LLC.
+SMBIOSBIOSVersion : B3.9D
+ReleaseDate       : 13.02.2025 5:00:00
+
+
+
+
+
+BiosFirmwareType : Uefi
+
+
+

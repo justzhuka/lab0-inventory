@@ -1,0 +1,7 @@
+﻿
+Manufacturer DeviceLocator CapacityGB Speed ConfiguredClockSpeed
+------------ ------------- ---------- ----- --------------------
+Unknown      DIMM 0                16  4800                 5600
+Unknown      DIMM 0                16  4800                 5600
+
+

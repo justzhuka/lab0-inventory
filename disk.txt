@@ -1,0 +1,16 @@
+=== Physical disks ===
+
+FriendlyName            MediaType  SizeGB
+------------            ---------  ------
+HS-SSD-FUTURE Pro 2048G SSD       1907,73
+ST2000DM008-2UB102      HDD       1863,02
+
+
+=== Volumes and free space ===
+
+DriveLetter FileSystemLabel  SizeGB  FreeGB
+----------- ---------------  ------  ------
+          C                 1906,73 1064,15
+          D                    1863 1862,84
+
+

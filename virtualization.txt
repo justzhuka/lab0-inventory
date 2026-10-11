@@ -1,0 +1,8 @@
+﻿
+
+VMMonitorModeExtensions                 : False
+VirtualizationFirmwareEnabled           : True
+SecondLevelAddressTranslationExtensions : False
+
+
+
